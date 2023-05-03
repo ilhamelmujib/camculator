@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Camculator</string>
+    <string name="scanning_in_progress">Scanning in progress.</string>
+    <string name="feels_empty_here_create_some_scans">Feels empty here. Create some scans!</string>
+    <string name="heads_up">Heads Up!</string>
+    <string name="camera_permission_info">"The application needs access to the camera in order to capture and crop a photo from which text is extracted.\n\nPlease keep in mind, if the permission is denied twice you will need to change it manually in the settings. "</string>
+    <string name="okay">Okay</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="no_text_found">No text was found.</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="invalid_text">It isn\'t any VALID mathematical expression!</string>
+    <string name="no_zero_divide">Error! Cannot divide by zero.</string>
+</resources>
